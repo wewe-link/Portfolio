@@ -4,6 +4,6 @@ This is a draft I prepared while analyzing experimental data. The main challenge
 # Separating_two_star_clasters
 Here, I attempt to separate two 2D normal distributions, representing star clusters. Two different approaches are employed:
 
--Maximum Likelihood Estimation (MLE)
--Expectation-Maximization (EM)
+- Maximum Likelihood Estimation (MLE)
+- Expectation-Maximization (EM)
 
